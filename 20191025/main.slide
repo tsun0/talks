@@ -1,0 +1,62 @@
+Umeda.go 2019 Autumn
+シナジーマーケティング株式会社
+25 Oct 2019
+
+ #umedago
+
+* Umeda.go
+
+Twitter: *#umedago*
+
+- 👉 *2019.10.25* *Umeda.go* *2019* *Autumn*
+- 2019.08.23 Go 1.13 Release Party in Umeda
+- 2019.07.26 Umeda.go 2019 Summer
+- 2019.04.20 Umeda.go 2019 Spring
+- 2019.02.15 Go 1.12 Release Party in Umeda
+
+* 今後の予定
+
+- Umeda.go 2019 Winter in December
+
+* Twitter & Slack
+
+*Twitter* 
+.link https://twitter.com/umedago @umedago
+イベントアカウントのフォローをお願いします。
+随時イベント情報をお知らせいたします。
+
+*Slack*
+.link https://invite.slack.golangbridge.org/ Gophers Slack #osaka
+Umeda.go や Go に関して初心者からベテランまで気軽に質問できる場です。
+ぜひ気軽に参加してなにかポストしてみて下さい。
+
+* Today（19:30-21:00）
+
+- 19:30  VSCode + golangでの快適な補完について / akinobufujii
+- 19:50  TinyGoで組み込み開発の始め方 / nobonobo
+- 20:10  休憩
+- 20:15  コマンドラインオプションをパースするコードをコマンドラインオプションから生成するツールをつくった / monochromegane (fukuoka)
+- 20:35  Testing for AWS Serverless Go / seike460 (fukuoka)
+- 20:55  休憩
+
+* Today（21:00-22:00）
+
+- 21:00  LT: 構造体以外にも type をつけてみる / 池内 隆一郎
+- 21:07  LT: Goという未知の言語に立ち向かい、ユニットテストをひたすら書いた、私の夏休み🌻/ miki
+- 21:14  LT: Getting started Central Dogma with Golang / Matsuzaki (fukuoka)
+- 21:21  LT: trinity で Cloud Composer にワークフローを簡単デプロイ / zaimy (fukuoka)
+- 21:30  懇親会
+- 22:00  クローズ
+
+* 会場のご案内
+
+.image ./image/floor.png _ 800
+
+- Wi-Fiは提供していますが、絶対にSSIDとパスワードは拡散しないでください
+- 飲食は自由ですが汚さないようにお願いいたします
+
+* Thanks
+
+*シナジーマーケティング株式会社* 会場のご提供ありがとうございます。
+
+* Enjoy 🎉
