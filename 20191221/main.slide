@@ -1,0 +1,61 @@
+Umeda.go はじめてのGo言語教室
+シナジーマーケティング株式会社
+21 Dec 2019
+
+ #umedago
+
+* Umeda.go
+
+大阪近辺のプログラミング言語 Go ユーザーコミュニティです。
+技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるコミュニティを目指しています。
+
+Twitter: *#umedago*
+
+- 👉 *2019.12.21* *Umeda.go* *はじめてのGo言語教室*
+- 2019.10.25 Umeda.go 2019 Autumn
+- 2019.08.23 Go 1.13 Release Party in Umeda
+- 2019.07.26 Umeda.go 2019 Summer
+- 2019.04.20 Umeda.go 2019 Spring
+
+* 今後の予定
+
+- Umeda.go 2020 Winter in January
+- 2020.01.25 Sat.
+
+* Twitter & Slack
+
+*Twitter* 
+.link https://twitter.com/umedago @umedago
+イベントアカウントのフォローをお願いします。
+随時イベント情報をお知らせいたします。
+
+*Slack*
+.link https://invite.slack.golangbridge.org/ Gophers Slack #osaka
+Umeda.go や Go に関して初心者からベテランまで気軽に質問できる場です。
+ぜひ気軽に参加してなにかポストしてみて下さい。
+
+* Today（13:00-17:00）
+
+- 13:00  会場説明、自己紹介など
+- 13:15  開発環境のセットアップ
+- 13:45  Go入門ハンズオン（休憩あり）
+- 16:45  クロージング、片付け
+
+* 会場のご案内
+
+.image ./image/floor.png _ 800
+
+- Wi-Fiは提供していますが、絶対にSSIDとパスワードは拡散しないでください。
+- 飲食は自由ですが汚さないようにお願いいたします。
+
+* アンケート
+
+.image ./image/QR.png _ 400
+
+- アンケートのご協力をお願いします。
+
+* Thanks
+
+会場提供 by シナジーマーケティング株式会社
+
+* Enjoy 🎉
