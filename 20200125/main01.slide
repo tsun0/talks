@@ -1,0 +1,77 @@
+Umeda.go 2020 Winter
+シナジーマーケティング株式会社
+25 Jan 2020
+
+ #umedago
+
+* Umeda.go
+
+大阪近辺のプログラミング言語 Go ユーザーコミュニティです。
+技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるコミュニティを目指しています。
+
+Twitter: *#umedago*
+
+- 👉 *2020.01.25* *Umeda.go* *2020* *Winter*
+- 2019.12.21 Umeda.go はじめてのGo言語教室
+- 2019.10.25 Umeda.go 2019 Autumn
+- 2019.08.23 Go 1.13 Release Party in Umeda
+- 2019.07.26 Umeda.go 2019 Summer
+
+* 今後の予定
+
+- Umeda.go 2020 Spring in April
+- 2020.04.10 or 17 Fri.
+
+* Twitter & Slack
+
+*Twitter* 
+.link https://twitter.com/umedago @umedago
+イベントアカウントのフォローをお願いします。
+随時イベント情報をお知らせいたします。
+
+*Slack*
+.link https://invite.slack.golangbridge.org/ Gophers Slack #osaka
+Umeda.go や Go に関して初心者からベテランまで気軽に質問できる場です。
+ぜひ気軽に参加してなにかポストしてみて下さい。
+
+* Today（13:00-16:00）
+
+- 13:00 会場・受付
+- 13:30	オープニング & 乾杯 & スポンサートーク
+- 13:45	コマンドラッパーでわかるシステムプログラミング（仮）/ 渋川よしき
+- 14:30	Short break
+- 14:40	Gopherになろう！ / 入江田昇
+- 15:05	雛形をベースに CLI ツールを作る / 高砂正哲
+- 15:30	Go歴１年目で失敗したこと / 池内隆一郎
+- 15:55	Short break
+
+* Today（16:00-19:00）
+
+- 16:00	LT: ワークフローエンジンをGoで作る / 辻大志郎
+- 16:10 LT: goleak で goroutine leak を検出する / 熊倉洋介
+- 16:20 LT: Goの並行絡みでやってしまうバグについての論文を読む / 友澤啓太
+- 16:30 LT: Go で Go を build して Go を Go で開発しよう / 北畠顕史
+- 16:40 LT: Goで工場を制御する要であるPLCにアクセスする / 真野隼記
+- 16:50	クロージング
+- 17:00	懇親会
+- 18:45	撤収
+
+* 会場のご案内
+
+.image ./image/floor.png _ 800
+
+- Wi-Fiは提供していますが、絶対にSSIDとパスワードは拡散しないでください。
+- 飲食は自由ですが汚さないようにお願いいたします。
+
+* アンケート
+
+.image ./image/QR.png _ 400
+
+- アンケートのご協力をお願いします。
+
+* Thanks
+
+- ビールスポンサー by freee株式会社
+- 会場提供 by シナジーマーケティング株式会社
+
+* Enjoy 🎉
