@@ -10,6 +10,7 @@ Umeda.go 2020 Online
 .image ./image/QR_PutYourHandsUp.png _ 200
 
 - 質問の受付に使うので、必ずログインしてください。
+- Twitterアカウントでログインすると、Twitterと連携できます（後ほど説明します）
 - ログインすると、Umeda.go 2020 Onlineのイベントページに遷移します。
 
 * Umeda.go
@@ -50,13 +51,9 @@ Umeda.go や Go に関して初心者からベテランまで気軽に質問で�
 - 09:55	TinyGo で組込開発を始めよう!! 0.14 ver / @sago35tk
 - 10:15	クロージング
 
-* PutYourHandsUp
+* PutYourHandsUp のTwitter連携
 
-PutYourHandsUp へのログインをお願いします。
-.image ./image/QR_PutYourHandsUp.png _ 300
-
-- 質問の受付に使うので、必ずログインしてください。
-- ログインすると、Umeda.go 2020 Onlineのイベントページに遷移します。
+.image ./image/p_3.png _ 800
 
 * アンケート
 
