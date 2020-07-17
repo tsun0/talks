@@ -1,0 +1,67 @@
+Umeda.go 2020 Online
+18 July 2020
+
+#umedago
+
+* welcome Umeda.go 2020 Online! 🎉
+
+9:05から開始します。
+お待ちの間に PutYourHandsUp にログインしてください。
+.image ./image/QR_PutYourHandsUp.png _ 200
+
+- 質問の受付に使うので、必ずログインしてください。
+- ログインすると、Umeda.go 2020 Onlineのイベントページに遷移します。
+
+* Umeda.go
+
+大阪近辺のプログラミング言語 Go ユーザーコミュニティです。
+技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるコミュニティを目指しています。
+
+Twitter: *#umedago*
+
+- 👉 *2020.07.17* *Umeda.go* *2020* *Online*
+- 2020.01.25 Umeda.go 2020 Winter
+- 2019.12.21 Umeda.go はじめてのGo言語教室
+- 2019.10.25 Umeda.go 2019 Autumn
+- 2019.08.23 Go 1.13 Release Party in Umeda
+
+* 今後の予定
+
+- Umeda.go 2020 Online in Autumn
+- 次回はトークを募集します！
+
+* Twitter & Slack
+
+*Twitter* 
+.link https://twitter.com/umedago @umedago
+イベントアカウントのフォローをお願いします。
+随時イベント情報をお知らせいたします。
+
+*Slack*
+.link https://invite.slack.golangbridge.org/ Gophers Slack #osaka
+Umeda.go や Go に関して初心者からベテランまで気軽に質問できる場です。
+ぜひ気軽に参加してなにかポストしてみて下さい。
+
+* Today
+
+- 09:05 イベント開始
+- 09:15	簡単なclang-tidyのサポートツールを作った話 / @akinobufujii
+- 09:35	adding test for existing project / @hatajoe
+- 09:55	TinyGo で組込開発を始めよう!! 0.14 ver / @sago35tk
+- 10:15	クロージング
+
+* PutYourHandsUp
+
+PutYourHandsUp へのログインをお願いします。
+.image ./image/QR_PutYourHandsUp.png _ 300
+
+- 質問の受付に使うので、必ずログインしてください。
+- ログインすると、Umeda.go 2020 Onlineのイベントページに遷移します。
+
+* アンケート
+
+.image ./image/QR.png _ 400
+
+- アンケートのご協力をお願いします。
+
+* Enjoy 🎉
