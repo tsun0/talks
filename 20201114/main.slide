@@ -1,0 +1,58 @@
+Umeda.go 2020 Autumn Online
+14 November 2020
+
+#umedago
+
+* Umeda.go
+
+大阪近辺のプログラミング言語 Go ユーザーコミュニティです。
+技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるコミュニティを目指しています。
+
+Twitter: *#umedago*
+
+- 👉 *2020.11.14* *Umeda.go* *2020* *Autumn* *Online*
+- 2020.07.17 Umeda.go 2020 Online
+- 2020.01.25 Umeda.go 2020 Winter
+- 2019.12.21 Umeda.go はじめてのGo言語教室
+- 2019.10.25 Umeda.go 2019 Autumn
+
+* 今後の予定
+
+- Umeda.go 2020 Online in Winter
+
+* Twitter & Slack
+
+*Twitter* 
+.link https://twitter.com/umedago @umedago
+イベントアカウントのフォローをお願いします。
+随時イベント情報をお知らせいたします。
+
+*Slack*
+.link https://invite.slack.golangbridge.org/ Gophers Slack #osaka
+Umeda.go や Go に関して初心者からベテランまで気軽に質問できる場です。
+ぜひ気軽に参加してなにかポストしてみて下さい。
+
+* Today
+
+- 09:00 イベント開始
+- 09:05 Goをやり直そう！ / @qt_luigi
+- 09:25 Introduction to JSON handling in Go / @d_tutuz
+- 09:35	SpaGo で SPA を作ろう！ / @nobonobo
+- 09:55	Go での並列処理 - 最初の一歩 / @sago35tk
+- 10:25	クロージング
+
+* PutYourHandsUp 
+
+- 質問の受付に PutYourHandsUp を使います。
+- PutYourHandsUp のリンクは Connpass に記載しています。
+- Twitterアカウントでログインすると、Twitterと連携できます
+
+.image ./image/p_3.png _ 700
+
+* アンケート
+
+.image ./image/QR.png _ 400
+
+- アンケートのご協力をお願いします。
+
+* Enjoy 🎉
